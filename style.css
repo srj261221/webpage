@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(con.jpg);
+    background-size: cover;
+    background-position: 10px;
+    font-family: 'Lobster', cursive;
+}
